@@ -1,4 +1,4 @@
-## **Bem-vindo ao seu guia do projeto Tecnologias a Laser!** ⏰
+## **Bem-vindo ao seu guia do projeto Tecnologias a Laser!** - **Imersão Dev com Google Gemini**
 
 **O que faz a magia acontecer?** 🪄
 
@@ -21,14 +21,19 @@ Digite o nome de qualquer tecnologia de depilação a laser que você queira sab
 
 **Dica:** Experimente buscar por laser, ou qualquer outra palavra que te interesse!
 
+
 **Vamos depilar o mundo, um laser de cada vez!**
+
 
 
 Este projeto tem como objetivo principal apresentar um panorama das tecnologias e equipamentos utilizados na depilação a laser, com foco no mercado brasileiro. A ideia surgiu da minha experiência profissional na área e do desejo de compartilhar conhecimentos com outros profissionais e interessados no assunto.
 
+
+
 **Desenvolvimento**
 
 O desenvolvimento deste projeto envolveu as seguintes etapas:
+
 **Pesquisa:* A coleta de informações sobre as diferentes tecnologias e equipamentos foi realizada através de pesquisas na web e com o auxílio do modelo de linguagem GPT-3. Foram utilizados diversos prompts para obter informações específicas, como características técnicas, vantagens e desvantagens de cada tecnologia.
 
 **Estruturação dos dados:* Os dados coletados foram organizados em uma estrutura de dados JSON, facilitando a manipulação e exibição das informações no frontend.
@@ -38,17 +43,28 @@ O desenvolvimento deste projeto envolveu as seguintes etapas:
 **Design:* A escolha das cores, fontes e layout da página foi feita com o auxílio do GPT-3 (Gemini), que sugeriu diversas opções e ajudou a definir o estilo visual final.
 
 
+
 **Funcionalidades**
+
 Busca: Permite realizar buscas por tecnologias ou equipamentos específicos.
 Detalhes: Apresenta informações detalhadas sobre cada tecnologia ou equipamento, como características técnicas, vantagens e desvantagens.
-Dificuldades e Aprendizados
+
+
+
+**Dificuldades e Aprendizados**
 
 Ao longo do desenvolvimento deste projeto, enfrentei alguns desafios, como a organização dos dados e a implementação da busca. No entanto, esses desafios foram superados com a ajuda de tutoriais, documentação e a comunidade de desenvolvedores.
 
+
+
 **Considerações Finais**
+
 Este projeto representa um primeiro passo na minha jornada como desenvolvedor web. Apesar de ter sido um desafio, estou satisfeita com o resultado final e acredito que este projeto pode ser útil para outros profissionais da área.
 
+
+
 **Próximos Passos**
+
 Expandir a base de dados: Incluir mais informações sobre cada tecnologia e equipamento e como estudos científicos e conteúdo adicional.
 Melhorar a interface do usuário: Tornar a interface mais intuitiva e agradável ao usuário.
 Implementar novas funcionalidades: Adicionar recursos como comparação de tecnologias.
